@@ -10,8 +10,8 @@ class Solution:
 
 	# Function to find maximum
 	# product subarray
-	def maxProduct(self,arr):
-		# code here
+    def maxProduct(self,arr):
+        # code here
         n = len(arr)
         
         # max product ending at current index
